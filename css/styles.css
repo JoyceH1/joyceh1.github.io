@@ -1,0 +1,90 @@
+body{
+	font-family: helvetica, arial, sans-serif ;
+	color: #40E0D0;
+	font-size: 30px;
+	text-align: center;
+}
+
+nav a {
+	color: #6495ED;
+	font-size: 20px;
+	margin-left: 10px;
+}
+
+a{
+	text-align: center;
+}
+
+h1{
+	font-family: helvetica, arial, sans-serif ;
+	color: #40E0D0;
+	font-size: 100px;
+	text-align: center;
+	margin: 5px 20px;
+}
+
+p{
+	font-family: helvetica,arial, sans-serif;
+	color: #6495ED;
+	font-size: 30px;
+	line-height: 1.5;
+
+}
+
+h2{
+	color: #6495ED;
+	font-size: 16px;
+
+}
+
+
+a{
+	text-decoration: none;
+}
+
+
+h3{
+	font-family: helvetica, arial, sans-serif ;
+	color: #40E0D0;
+	font-size: 18px;
+	font-weight: normal;
+
+}
+
+img{
+	float: center;
+	margin: 30px;
+	width: 500px;
+
+}
+
+footer a{
+	font-family: helvetica, arial, sans-serif;
+	font-size: 20px;
+	color: #FFF;
+	background: #6495ED;
+	padding: 10px 5px;
+	margin: 10px 25px;
+	text-align: center;
+}
+
+h4{
+	font-family: helvetica, arial, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	color: #DDD;
+}
+
+h5{
+	font-family: helvetica, arial, sans-serif;
+	font-size: 20px;
+	color:#1E90FF;
+}
+
+h5 li{
+	text-decoration: none;
+}
+
+div{
+	text-align: center;
+}
